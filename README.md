@@ -54,7 +54,7 @@ I am seeking remote developer opportunities that allow me to contribute, grow, a
 ### 📫 Contact
 
 - **GitHub:** [github.com/melroncod](https://github.com/melroncod)  
-- **Telegram:** [@melroncod](https://t.me/melron27)  
+- **Telegram:** [@melron27](https://t.me/melron27)  
 - *References and code samples available upon request*
 
 ---
