@@ -6,7 +6,7 @@ I’m a software developer with a focus on backend and automation solutions usin
 
 ### 🧑‍💻 Core Skills
 
-- **Languages:** Python, C#, JavaScript, Java  
+- **Languages:** Python, C#, JavaScript  
 - **Frameworks:** Django, FastAPI, Flask, .NET  
 - **Databases:** PostgreSQL, MySQL, SQLite  
 - **Other:** REST APIs, Telegram Bot API, Git, HTML/CSS, basic JS  
